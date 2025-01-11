@@ -1,2 +1,4 @@
-# zerogravity
-Space ships, lasers, asteroids, etc.
+# Zero Gravity
+
+>Space ships, lasers, asteroids, etc.
+
